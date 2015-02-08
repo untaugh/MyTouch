@@ -1,0 +1,1 @@
+Testing capacitive sensing on AVR. A 10nF Capacitor is connected between PD7 and PD6. The electrode is connected to PD7. I'm getting counter readings around 160 when not touched. And 155 when touched. Result is printed to serial at 9600 Baud. 
